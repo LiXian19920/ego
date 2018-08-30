@@ -1,0 +1,6 @@
+com\ego\commons\utils\JsonUtils.class
+com\ego\commons\utils\IDUtils.class
+com\ego\commons\pojo\EasyUIDatagrid.class
+com\ego\commons\pojo\EgoResult.class
+com\ego\commons\utils\FtpUtil.class
+com\ego\commons\pojo\EasyUITree.class

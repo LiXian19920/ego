@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:05 +0800] "POST /order/create.html HTTP/1.1" 200 7381 http-bio-8086-exec-1 2796
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:05 +0800] "GET /css/base.css HTTP/1.1" 304 - http-bio-8086-exec-2 31
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /js/jquery.cookie.js HTTP/1.1" 304 - http-bio-8086-exec-7 3
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /css/purchase.base.2012.css HTTP/1.1" 304 - http-bio-8086-exec-3 3
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 304 - http-bio-8086-exec-5 18
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /css/purchase.sop.css HTTP/1.1" 304 - http-bio-8086-exec-4 2
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /js/base-2011.js HTTP/1.1" 304 - http-bio-8086-exec-6 4
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /js/ego.js HTTP/1.1" 304 - http-bio-8086-exec-8 4
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /images/ego-logo.gif HTTP/1.1" 304 - http-bio-8086-exec-6 2
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /images/20130725.png HTTP/1.1" 304 - http-bio-8086-exec-6 2
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /images/20130330A_2.png HTTP/1.1" 304 - http-bio-8086-exec-6 2
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /images/flow.gif HTTP/1.1" 304 - http-bio-8086-exec-8 2
+0:0:0:0:0:0:0:1 - - [17/Aug/2017:14:40:06 +0800] "GET /images/icon48.png HTTP/1.1" 304 - http-bio-8086-exec-6 3

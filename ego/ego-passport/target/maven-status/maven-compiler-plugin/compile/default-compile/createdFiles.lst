@@ -1,0 +1,5 @@
+com\ego\passport\service\TbUserService.class
+com\ego\passport\controller\TbUserController.class
+com\ego\passport\service\impl\TbUserServiceImpl.class
+com\ego\passport\dao\impl\JedisPoolDaoImpl.class
+com\ego\passport\dao\JedisPoolDao.class
